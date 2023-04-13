@@ -4,7 +4,7 @@ Hi 👋 My name is Semyon
 * ✉️  You can contact me at [ivlesemen5566@gmail.com](mailto:ivlesemen5566@gmail.com)
 * 🧠  I'm learning C#, .net, .net core
 
-<h3 align="left">Connect with me:</h3>
+### Socials
 <p align="left">
 <a href="https://stackoverflow.com/users/user:21632423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21632423" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/semyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="semyon" height="30" width="40" /></a>
