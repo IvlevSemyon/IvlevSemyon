@@ -54,4 +54,4 @@
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact" alt="ivlevsemyon" /></p>
 
-<img src ="https://user-images.githubusercontent.com/75061655/231758149-e459e65f-7bb6-48f7-8ddd-9d6c51583dda.gif" width="400" height="600"/>
+<img src ="https://user-images.githubusercontent.com/75061655/231758149-e459e65f-7bb6-48f7-8ddd-9d6c51583dda.gif" width="100" height="150"/>
