@@ -87,9 +87,3 @@ Variant 2
 <img align="left" height="200" src="https://i.gifer.com/Ry6p.gif"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Iv/Iv/blob/output/snake.svg" alt="Snake animation" />
-
-###
