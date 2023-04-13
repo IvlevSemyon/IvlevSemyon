@@ -42,6 +42,7 @@
 ## ◀ Skills ▶
 
 <div align="left">
+  <a1><img src ="https://user-images.githubusercontent.com/75061655/231758149-e459e65f-7bb6-48f7-8ddd-9d6c51583dda.gif" width="150" height="200"/></a1>
   <div align="left"> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg  " alt="csharp" width="50" height="42"  /> </a> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="42"/> </a> 
@@ -50,7 +51,6 @@
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="42" alt="dotnetcore logo"  /></a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="42"/> </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="42"/> </a> 
-    <a1><img src ="https://user-images.githubusercontent.com/75061655/231758149-e459e65f-7bb6-48f7-8ddd-9d6c51583dda.gif" width="150" height="200"/></a1>
   </div>
   
 
