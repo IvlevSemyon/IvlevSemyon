@@ -20,7 +20,7 @@
 
 ================================================
 
-### Socials
+## Socials
 
 <p align="left">
 <a href="https://www.github.com/IvlevSemyon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="42" /></a>
@@ -31,7 +31,7 @@
 <a href="https://t.me/tyrivlevz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="42" alt="telegram logo"/></a>
 </p>
 
-### Skills
+## Skills
 
 
 <div align="left"> 
