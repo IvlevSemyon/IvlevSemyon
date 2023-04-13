@@ -50,9 +50,7 @@
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="42"  /> </a>
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="42" alt="dotnetcore logo"  /></a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="42"/> </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="42"/> </a>
-    
-      <img src ="https://user-images.githubusercontent.com/75061655/231758149-e459e65f-7bb6-48f7-8ddd-9d6c51583dda.gif" width="120" height="200" align="right"/>     
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="42"/> </a>     
   </div>
 </div>
 <p><img align="left" style="padding: 100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact" alt="ivlevsemyon" /></p>
