@@ -52,6 +52,6 @@
   </div>
   
 
-  <p><img align="left" style="padding: 10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact" alt="ivlevsemyon" /></p>
+  <p><img align="left" style="padding: 100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact" alt="ivlevsemyon" /></p>
   
 </div>
