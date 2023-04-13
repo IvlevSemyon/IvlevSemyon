@@ -37,7 +37,7 @@
 
 ## ◀ Skills ▶
 
-<img src ="https://user-images.githubusercontent.com/75061655/231758149-e459e65f-7bb6-48f7-8ddd-9d6c51583dda.gif" width="600" height="200" align="right"/> 
+<img src ="https://user-images.githubusercontent.com/75061655/231758149-e459e65f-7bb6-48f7-8ddd-9d6c51583dda.gif" width="600" height="400" align="right"/> 
 
 <div align="left">
   
