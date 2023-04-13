@@ -4,6 +4,15 @@
 * ✉️  You can contact me at [ivlesemen5566@gmail.com](mailto:ivlesemen5566@gmail.com)
 * 🧠  I'm learning C#, .net, .net core
 
+<div style="display: table; height: 100px; overflow: hidden;">
+  <div style="display: table-cell; vertical-align: middle;">
+    <div>
+      everything is vertically centered in modern IE8+ and others.
+    </div>
+  </div>
+</div>
+
+
 ### Socials
 
 <p align="left">
