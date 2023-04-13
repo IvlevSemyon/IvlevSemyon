@@ -1,8 +1,9 @@
 # IvlevSemyon
-<h1 align="center">Hi 👋, I'm Ivlev Semyon</h1>
-<h3 align="center">Begginer C# backend developer</h3>
+Hi 👋 My name is Semyon
+=======================
 
-- 🌱 I’m currently learning **C#, .Net, .Net core, SQL**
+* ✉️  You can contact me at [ivlesemen5566@gmail.com](mailto:ivlesemen5566@gmail.com)
+* 🧠  I'm learning C#, .net, .net core
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
