@@ -54,4 +54,4 @@
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact" alt="ivlevsemyon" /></p>
 
-<img src ="https://tenor.com/view/gigachad-chad-gif-20773266" width = "300" height = "200"/>
+<img src ="https://tenor.com/view/gigachad-chad-gif-20773266 width="300" height="600"/>
