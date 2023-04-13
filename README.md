@@ -19,9 +19,10 @@
 * ✉️  You can contact me at [ivlesemen5566@gmail.com](mailto:ivlesemen5566@gmail.com)
 * 🧠  I'm learning C#, .net, .net core
 
+================================================
+
 <img src ="https://user-images.githubusercontent.com/75061655/231724152-a88d2bf9-2486-4313-8107-c5afdc395b22.gif" width = "300" height = "200"/>
 
-================================================
 
 ## Socials
 
