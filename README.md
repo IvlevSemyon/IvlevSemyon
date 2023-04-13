@@ -34,6 +34,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact" alt="ivlevsemyon" /></p>
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Iv/Iv/blob/output/snake.svg" alt="Snake animation" />
