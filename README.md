@@ -48,7 +48,7 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="42"/> </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="42"/> </a>
     
-    <a><img align="left" style="padding: 100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact" alt="ivlevsemyon" /></a>
+    <p><img align="left" style="padding: 100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact" alt="ivlevsemyon" /></p>
     <div style="text-indent:25px">
       <img src ="https://user-images.githubusercontent.com/75061655/231758149-e459e65f-7bb6-48f7-8ddd-9d6c51583dda.gif" width="120" height="200" align="right"/>         </div>
   </div>
