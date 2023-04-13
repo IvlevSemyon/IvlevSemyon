@@ -9,7 +9,7 @@ Hi 👋 My name is Semyon
 <p align="left">
 <a href="https://stackoverflow.com/users/user:21632423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21632423" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/semyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="semyon" height="30" width="40" /></a>
-<a href="https://discord.com/users/IvlevSemyon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="40" /></a>
+<a href="https://discord.com/users/IvlevSemyon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="30" width="40" /></a>
 </p>
 
 ### Skills
