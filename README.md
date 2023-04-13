@@ -14,6 +14,8 @@
 * ✉️  You can contact me at [ivlesemen5566@gmail.com](mailto:ivlesemen5566@gmail.com)
 * 🧠  I'm learning C#, .net, .net core
 
+<img src ="https://user-images.githubusercontent.com/75061655/231724152-a88d2bf9-2486-4313-8107-c5afdc395b22.gif" width = "300" height = "200"/>
+
 ================================================
 
 ### Socials
@@ -25,8 +27,6 @@
 <a href="https://discord.com/users/IvlevSemyon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.codewars.com/users/ensi" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="32" height="32" /></a>
 </p>
-
-<img src ="https://user-images.githubusercontent.com/75061655/231724152-a88d2bf9-2486-4313-8107-c5afdc395b22.gif" width = "300" height = "200"/>
 
 ### Skills
 
