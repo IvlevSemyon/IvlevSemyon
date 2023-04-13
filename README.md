@@ -12,7 +12,7 @@
 </p>
 
 
-<img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif" width = "10" height = "1000"/>
+<img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif" width = "1000" height = "10"/>
 
 * ✉️  You can contact me at [ivlesemen5566@gmail.com](mailto:ivlesemen5566@gmail.com)
 * 🧠  I'm learning C#, .net, .net core
