@@ -53,6 +53,6 @@
 </div>
   
   
-  <div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/Ry6p" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
+[  <div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/Ry6p" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>](https://i.gifer.com/Ry6p.gif)
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact" alt="ivlevsemyon" /></p>
