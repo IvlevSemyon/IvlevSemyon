@@ -1,4 +1,3 @@
-# IvlevSemyon
 Hi 👋 My name is Semyon
 =======================
 
