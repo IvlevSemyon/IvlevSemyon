@@ -83,7 +83,3 @@ Variant 2
 <img align="right" height="200" src="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif"  />
 
 ###
-
-<img align="left" height="200" src="https://i.gifer.com/Ry6p.gif"  />
-
-###
