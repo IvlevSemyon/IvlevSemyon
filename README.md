@@ -53,3 +53,5 @@
 
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact" alt="ivlevsemyon" /></p>
+
+<img src ="[https://user-images.githubusercontent.com/75061655/231724152-a88d2bf9-2486-4313-8107-c5afdc395b22.gif](https://tenor.com/view/gigachad-chad-gif-20773266)" width = "300" height = "200"/>
