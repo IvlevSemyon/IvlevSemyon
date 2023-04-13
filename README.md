@@ -2,7 +2,7 @@
   <div style="display: table-cell; vertical-align: middle;">
     <div>
       <img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "50" height = "50"/> 
-      <font size="22">Hi 👋 My name is Semyon</font>
+      ##### Hi 👋 My name is Semyon #####
       <img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "50" height = "50"/>
     </div>
   </div>
