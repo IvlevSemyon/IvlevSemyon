@@ -24,7 +24,7 @@
 <img src ="https://user-images.githubusercontent.com/75061655/231724152-a88d2bf9-2486-4313-8107-c5afdc395b22.gif" width = "300" height = "200"/>
 
 
-## ☣Socials☣
+## ◀ Socials ▶
 
 <p align="left">
 <a href="https://www.github.com/IvlevSemyon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="42" /></a>
@@ -35,7 +35,7 @@
 <a href="https://t.me/tyrivlevz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="42" alt="telegram logo"/></a>
 </p>
 
-## ☣Skills☣
+## ◀ Skills ▶
 
 
 <div align="left"> 
