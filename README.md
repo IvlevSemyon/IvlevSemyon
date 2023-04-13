@@ -1,4 +1,4 @@
-<p vertical-align="down"><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "50" height = "50"/> Hi 👋 My name is Semyon <img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "50" height = "50"/></p>
+<p align="left"><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "50" height = "50"/> Hi 👋 My name is Semyon <img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "50" height = "50"/></p>
 =======================================================
 
 * ✉️  You can contact me at [ivlesemen5566@gmail.com](mailto:ivlesemen5566@gmail.com)
