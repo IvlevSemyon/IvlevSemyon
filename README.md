@@ -17,7 +17,7 @@
 
 <img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif" width = "1000" height = "10"/>
 
-## ◀ Socials ▶
+### Socials
 
 <p align="left">
 <a href="https://www.github.com/IvlevSemyon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="42" /></a>
