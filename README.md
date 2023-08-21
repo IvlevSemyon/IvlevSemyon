@@ -7,15 +7,7 @@
 𝙄'𝙢 𝙖 𝙗𝙚𝙜𝙞𝙣𝙚𝙧 𝘾# 𝙗𝙖𝙘𝙠𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧, 𝙛𝙧𝙤𝙢 𝙍𝙪𝙨𝙨𝙞𝙖</h1>
 
 
-<p>
-<a><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "100" height = "100"/></a> 
-  <a><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "100" height = "100"/></a>
-  <a><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "100" height = "100"/></a>
-  <a><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "100" height = "100"/></a>
-  <a><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "100" height = "100"/></a>
-  <a><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "100" height = "100"/></a>
-  <a><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "100" height = "100"/></a>
-</p>
+
 
 
 <img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif" width = "1000" height = "10"/>
