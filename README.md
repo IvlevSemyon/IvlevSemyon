@@ -6,8 +6,9 @@
   
 𝙄'𝙢 𝙖 𝙗𝙚𝙜𝙞𝙣𝙚𝙧 𝘾# 𝙗𝙖𝙘𝙠𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧, 𝙛𝙧𝙤𝙢 𝙍𝙪𝙨𝙨𝙞𝙖</h1>
 
-<img src="https://gfycat.com/colorlessbadchimneyswift" width="100"/>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif" width = "1000" height = "10"/>
 
