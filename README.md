@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <img src="https://tenor.com/bW8Tb.gif" width="100"/>
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
 </div>
 <h1 align="center">𝙃𝙞 👋! 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙎𝙚𝙢𝙮𝙤𝙣
