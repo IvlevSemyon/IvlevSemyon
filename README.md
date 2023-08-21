@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
 </div>
-<h1 align="centre">𝙃𝙞 👋! 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙎𝙚𝙢𝙮𝙤𝙣
+<h1 align="center">𝙃𝙞 👋! 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙎𝙚𝙢𝙮𝙤𝙣
   
 𝙄'𝙢 𝙖 𝙗𝙚𝙜𝙞𝙣𝙚𝙧 𝘾# 𝙗𝙖𝙘𝙠𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧, 𝙛𝙧𝙤𝙢 𝙍𝙪𝙨𝙨𝙞𝙖</h1>
 
