@@ -24,6 +24,10 @@
 
 <img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif" width = "1000" height = "10"/>
 
+<p align="left">
+  <a><img src ="https://user-images.githubusercontent.com/75061655/231724152-a88d2bf9-2486-4313-8107-c5afdc395b22.gif" width = "300" height = "200"/></a>
+</p>
+
 
 ## ◀ Socials ▶
 
