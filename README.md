@@ -1,9 +1,5 @@
 <img align="center" alt="Coding" width="1338/2" src="https://github.com/IvlevSemyon/IvlevSemyon/assets/75061655/95de3435-52c1-46d9-860a-9793302c5bd5">
 
-<h1 align="center">𝙃𝙞 👋! 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙎𝙚𝙢𝙮𝙤𝙣
-  
-𝙄'𝙢 𝙖 𝙗𝙚𝙜𝙞𝙣𝙚𝙧 𝘾# 𝙗𝙖𝙘𝙠𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧, 𝙛𝙧𝙤𝙢 𝙍𝙪𝙨𝙨𝙞𝙖</h1>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
