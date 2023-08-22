@@ -1,6 +1,4 @@
-
-<img align="right" alt="Coding" width="400" src="add your link 
-here">
+<img align="center" alt="Coding" width="1338" src="https://github.com/IvlevSemyon/IvlevSemyon/assets/75061655/95de3435-52c1-46d9-860a-9793302c5bd5">
 
 <div id="header" align="center">
   <img src="https://tenor.com/bW8Tb.gif" width="100"/>
