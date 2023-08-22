@@ -1,9 +1,5 @@
 <img align="center" alt="Coding" width="1338/2" src="https://github.com/IvlevSemyon/IvlevSemyon/assets/75061655/95de3435-52c1-46d9-860a-9793302c5bd5">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 <img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif" width = "1000" height = "10"/>
 
 * ✉️  You can contact me at [ivlesemen5566@gmail.com](mailto:ivlesemen5566@gmail.com) or telegram ([https://t.me/tyrivlevz](https://t.me/tyrivlevz))
