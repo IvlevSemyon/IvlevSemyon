@@ -44,4 +44,7 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="Unity3d" **alt="Unity" width="40" height="40"/>
 </div>
 
-<p><img align="left" style="padding: 100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact" alt="ivlevsemyon" /></p>
+<div>
+  <p><img align="left" style="padding: 100px" src="https://github-readme-stats.vercel.app/api/top-langs? 
+  username=ivlevsemyon&show_icons=true&locale=en&layout=compact" alt="ivlevsemyon" /></p>
+</div>
