@@ -17,7 +17,8 @@
 </p>
 
 
-<h3 align="center">:bust_in_silhouette: Socials</h3> 
+<h3 align="center">:bust_in_silhouette: Socials</h3>
+###
 ---
 <p align="left">
 <a href="https://www.github.com/IvlevSemyon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="42" /></a>
