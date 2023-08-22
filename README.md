@@ -26,8 +26,6 @@
 <a href="https://www.codewars.com/users/ensi" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="42" height="42" /></a>
 </p>
 
-
-
 <h3 align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h3>
 
 ---
