@@ -24,7 +24,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+###                   :hammer_and_wrench: Languages and Tools : :hammer_and_wrench:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"  title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
