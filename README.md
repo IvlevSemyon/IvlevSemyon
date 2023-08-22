@@ -18,8 +18,9 @@
 
 
 <h3 align="center">:bust_in_silhouette: Socials</h3>
-###
+
 ---
+
 <p align="left">
 <a href="https://www.github.com/IvlevSemyon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="42" /></a>
 <a href="https://www.stackoverflow.com/users/21632423/ensi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="50" height="42" /></a>
