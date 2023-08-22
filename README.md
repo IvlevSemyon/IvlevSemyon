@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1338/2" src="https://github.com/IvlevSemyon/IvlevSemyon/assets/75061655/95de3435-52c1-46d9-860a-9793302c5bd5">
+<img align="center" alt="Coding" width="1300" src="https://github.com/IvlevSemyon/IvlevSemyon/assets/75061655/95de3435-52c1-46d9-860a-9793302c5bd5">
 
 <img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif" width = "1000" height = "10"/>
 
