@@ -17,7 +17,7 @@
 </p>
 
 
-<h3 align="center">:bust_in_silhouette: Socials</h3>
+<h3 align="center">:bust_in_silhouette: Socials :bust_in_silhouette:</h3>
 
 ---
 
