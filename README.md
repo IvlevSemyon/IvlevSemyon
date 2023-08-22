@@ -12,7 +12,7 @@
 
 
 ### :bust_in_silhouette: Socials
-
+---
 <p align="left">
 <a href="https://www.github.com/IvlevSemyon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="42" /></a>
 <a href="https://www.stackoverflow.com/users/21632423/ensi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="50" height="42" /></a>
@@ -22,10 +22,9 @@
 <a href="https://t.me/tyrivlevz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="42" alt="telegram logo"/></a>
 </p>
 
----
 
 ### :hammer_and_wrench: Languages and Tools :hammer_and_wrench:
-
+---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"  title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"  title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
